@@ -2,5 +2,18 @@
     font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
     font-size: 50px;
     color: darkblue;
-    font-style: italic
+    font-style: italic;
+}
+
+#Ironman {
+    border: 1px solid black;
+    height: 300px;
+    width: 300px;
+}
+
+#words {
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-size: 25px;
+    color: darkblue;
+    font-style: italic;
 }
